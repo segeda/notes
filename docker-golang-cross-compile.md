@@ -1,6 +1,7 @@
 ## Go cross-compilation from Docker
 
-https://hub.docker.com/_/golang/
+<https://hub.docker.com/_/golang/>
+
 ### For Windows
 
 ```
