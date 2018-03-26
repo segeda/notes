@@ -1,3 +1,3 @@
-http://erlang.org/doc/index.html
+[Erlang/OTP](http://erlang.org/doc/index.html)
 
-http://erlang.org/doc/man/erl_tidy.html
+[erl_tidy](http://erlang.org/doc/man/erl_tidy.html)
