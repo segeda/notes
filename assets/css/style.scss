@@ -7,3 +7,9 @@ body {
   font-family: 'Fira Code';
   font-weight: 300;
 }
+.container {
+  max-width: 1024px;
+}
+header h1:before {
+  content: "";
+}
