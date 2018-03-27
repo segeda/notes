@@ -3,12 +3,14 @@
 
 @import "{{ site.theme }}";
 @import url(https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css);
-body {
+* {
   font-family: 'Fira Code';
-  font-weight: 300;
 }
 .container {
   max-width: 1024px;
+}
+header h1 {
+  margin: 0;
 }
 header h1:before {
   content: "";
