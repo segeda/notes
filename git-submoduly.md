@@ -18,11 +18,11 @@ Pokud změním data v submodulu:
 2. Commitnout a pushnout změny v submodulu
 3. Aktualizovat submodul a commitnout změnu v projektu
 
-#### repozitář pro zdroj dat
+#### Repozitář pro zdroj dat
 
 [Vytvořil](https://github.com/segeda/data-json/commit/91da2f325d1874a608736fd7bf1c8852aec388b3) jsem repozitář [segeda/data-json](https://github.com/segeda/data-json) na [GitHubu](https://github.com/). Do repozitáře jsem [nahrál soubor](https://github.com/segeda/data-json/commit/9c85f52890eb2dc302800e0a3565047a22d72847) s daty.
 
-#### repozitář pro projekt
+#### Repozitář pro projekt
 
 [Vytvořil](https://github.com/segeda/data-js/commit/9d9531f420caf7ac51d92b16611f6fb15ca14a6e) jsem repozitář [segeda/data-js](https://github.com/segeda/data-js) projektu.
 
