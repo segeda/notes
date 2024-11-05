@@ -8,7 +8,7 @@ Já jsem potřeboval do různých projektů použít jeden zdroj dat. Původní 
 
 Git submoduly mi umožnily vložit zdroj dat do každého projektu. Když se zdroj dat změní, stačí aktualizovat submodul a změny se projeví ve všech projektech.
 
-Lze použít i pro data, která se dynamicky mění. Třeba pomocí GitHub Action [flat-data](https://githubnext.com/projects/flat-data/).
+Lze použít i pro data, která se dynamicky mění. Třeba pomocí GitHub Action [flat-data](https://githubnext.com/projects/flat-data/). Potom se už jen musí updatnout projekt se submodulem.
 
 ### Postup
 
@@ -18,15 +18,15 @@ Pokud změním data v submodulu:
 2. Commitnout a pushnout změny v submodulu
 3. Aktualizovat submodul a commitnout změnu v projektu
 
-#### Repositář pro zdroj dat
+#### repozitář pro zdroj dat
 
-[Vytvořil](https://github.com/segeda/data-json/commit/91da2f325d1874a608736fd7bf1c8852aec388b3) jsem repositář [seegda/data-json](https://github.com/segeda/data-json) na [GitHubu](https://github.com/). Do repositáře jsem [nahrál soubor](https://github.com/segeda/data-json/commit/9c85f52890eb2dc302800e0a3565047a22d72847) s daty.
+[Vytvořil](https://github.com/segeda/data-json/commit/91da2f325d1874a608736fd7bf1c8852aec388b3) jsem repozitář [segeda/data-json](https://github.com/segeda/data-json) na [GitHubu](https://github.com/). Do repozitáře jsem [nahrál soubor](https://github.com/segeda/data-json/commit/9c85f52890eb2dc302800e0a3565047a22d72847) s daty.
 
-#### Repositář pro projekt
+#### repozitář pro projekt
 
-[Vytvořil](https://github.com/segeda/data-js/commit/9d9531f420caf7ac51d92b16611f6fb15ca14a6e) jsem repositář [seegda/data-js](https://github.com/segeda/data-js) projektu.
+[Vytvořil](https://github.com/segeda/data-js/commit/9d9531f420caf7ac51d92b16611f6fb15ca14a6e) jsem repozitář [segeda/data-js](https://github.com/segeda/data-js) projektu.
 
-Přidal jsem submodul s daty do repositáře projektu.
+Přidal jsem submodul s daty do repozitáře projektu.
 
 ```bash
 git submodule add git@github.com:segeda/data-json.git data
