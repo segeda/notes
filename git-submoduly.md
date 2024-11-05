@@ -42,7 +42,7 @@ git submodule update --remote data
 git commit -am "update submodule"
 ```
 
-#### Klonoání projektu
+#### Klonování projektu
 
 Pokud chcete klonoval projekt se submoduly, musíte inicializovat submoduly.
 
