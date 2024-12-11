@@ -1,3 +1,6 @@
+---
+lang: en-US
+---
 ## Go cross-compilation from Docker
 
 <https://hub.docker.com/_/golang/>

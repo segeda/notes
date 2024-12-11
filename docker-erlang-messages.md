@@ -1,4 +1,7 @@
-## Messaging between Erlang nodes in Docker containers 
+---
+lang: en-US
+---
+## Messaging between Erlang nodes in Docker containers
 
 ### Ping between nodes
 
