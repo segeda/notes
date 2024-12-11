@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: en
 ---
 [Erlang/OTP](http://erlang.org/doc/index.html)
 

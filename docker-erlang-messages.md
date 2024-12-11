@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: en
 ---
 ## Messaging between Erlang nodes in Docker containers
 

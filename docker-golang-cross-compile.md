@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: en
 ---
 ## Go cross-compilation from Docker
 
