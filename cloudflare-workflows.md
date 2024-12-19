@@ -1,3 +1,6 @@
+---
+last_modified_at: 2024-11-21
+---
 ## Cloudflare Workflows
 
 Ono se řekne: "Za týden vytvoř v účetním systému fakturu, PDF rozparsuj do HTML a pošli zákazníkovi e-mailem."

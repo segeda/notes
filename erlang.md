@@ -1,5 +1,7 @@
 ---
 lang: en
+last_modified_at: 2018-03-26
+sitemap: false
 ---
 [Erlang/OTP](http://erlang.org/doc/index.html)
 
