@@ -1,5 +1,6 @@
 ---
 lang: en
+last_modified_at: 2017-03-14
 ---
 ## Messaging between Erlang nodes in Docker containers
 

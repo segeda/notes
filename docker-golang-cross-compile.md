@@ -1,5 +1,6 @@
 ---
 lang: en
+last_modified_at: 2017-11-13
 ---
 ## Go cross-compilation from Docker
 

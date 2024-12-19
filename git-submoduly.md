@@ -1,3 +1,6 @@
+---
+last_modified_at: 2024-11-05
+---
 ## Git submoduly
 
 *Disclaimer: Tento článek mohl být tweet, ale napsal jsem ho hlavně pro své budoucí já.*
