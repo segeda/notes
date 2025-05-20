@@ -16,6 +16,7 @@ V [Oracle Cloud konzoli](https://cloud.oracle.com/) se proklikáme až do [Compu
 Důležité je, aby obě instance byly ve stejném subnetu.
 
 Dále si pro danný subnet v [Networking > Virtual Cloud Networks](https://cloud.oracle.com/networking/vcns) > _náš subnet_ > "Security Lists" > "Default Security List for _náš subnet_" vytvoříme Ingress pravidlo.
+
 |Stateless|Source Type|Source CIDR|IP Protocol|Source Port Range|Destination Port Range|Description      |
 |---------|-----------|-----------|-----------|-----------------|----------------------|-----------------|
 |No       |CIDR       |10.0.0.0/16|TCP        |_ALL_            |4369                  |EPMD             |
